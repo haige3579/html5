@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style: none;
+}
+#div1{
+    width: 1150px;
+    height:auto;
+    margin:50px auto;
+}
+ul{
+    width: 380px;
+    float: left;
+}
